@@ -1,23 +1,27 @@
 {
     "locations":[  {
+        "id": "29834i;dfpoiar8498",
         "name": "London",
         "description":
           "It's little wonder London, England is one of the world's top tourist destinations, attracting upward of 20 million visitors each year from around the world. Britains's capital city is a vibrant arts and entertainment center (its theaters are always busy). London offers one of the planets's greatest concentrations of cultural attractions.",
         "image": "./london.jpg"
       },
       {
+          "id": "ep98q2yidh;wyupafauhu",
         "name": "Tokyo",
         "description":
           "Simply setting foot in Japan's cosmopolitan capital is an experience within itself. A city known for its bustling streets and flashing neon signs, Tokyo has an electric energy and plenty of attractions to discover. Foodies won't be let down by the city's fresh sushi and hearty ramen",
         "image": "./tokyo.jpg"
       },
       {
+          "id": "323849083mndjhfiwuo2ur",
         "name": "Paris",
         "description":
           "The magnetic City of Light draws visitors from around the globe who come to see iconic attractions like the Eiffel Tower, the Louvre and the Arc de Triomphe. But what travelers really fall in love with are the city's quaint cafes, vibrant markets, trendy shopping districts and unmistakable je ne sais quoi charm",
         "image": "./paris.jpg"
       },
       {
+          "id": ";kf;kdjfiep82p857puvlur",
         "name": "Maldives",
         "description":
           "With crystal white sands and sheltered lagoons, the Maldives redefines paradise. For those seeking relaxation, our all-inclusive Maldives holidays help you make the most of some of the world's best beach resorts. Meanwhile, adventure lovers can experience world-class diving, surfing, fishing, kayaking and more. With over 1,000 coral islands to enjoy, there's no shortage of things to see or do on trips to the Maldives.",
